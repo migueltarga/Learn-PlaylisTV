@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            PlaylisTV
+tagline:          ''
+description:      'Documentation and Tutorials'
+url:              http://playlistv.github.io
+baseurl: /
+
+author:
+  name:           'Miguel Targa'
+  url:            https://targa.me
+
+paginate:         5
+
+# Custom vars
+version:          1.7.6
+
+googleplay:       https://play.google.com/store/apps/details?id=me.targa.iptvbr
+gems:             [jekyll-paginate, jekyll-gist]
