@@ -1,7 +1,11 @@
 ---
 layout: post
-title: PlaylisTV API
+title: API Beta
 ---
+
+<p class="message">
+ Atenção: Essas informações sāo validas apenas para o PlaylisTV Beta
+</p>
 
 ### Informações sobre a lista e do Autor
 
