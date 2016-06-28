@@ -11,7 +11,7 @@ title:            PlaylisTV
 tagline:          ''
 description:      'Documentation and Tutorials'
 url:              http://playlistv.github.io
-baseurl: /
+baseurl:          /Learn-PlaylisTV/
 
 author:
   name:           'Miguel Targa'
