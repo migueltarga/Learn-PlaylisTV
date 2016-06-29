@@ -59,6 +59,16 @@ Para usar subcategorias use a tag `pltv-subgroup`, exemplo:
 http://bit.ly/Link
 ```
 
+### Formataçaã de texto
+
+É possivel usar **negrito**, _italico_, sublinhado e cores (html colors) para o texto das categorias, subcategorias e nome do canal/epsodio/filme usando as seguintes tags:
+
+```[B]negrito[/B]
+[I]Italico[/I]
+[U]Sublinhado[/U]
+[COLOR blue]Texto em azul[/COLOR]
+[COLOR #0000FF]Texto em azul[/COLOR]```
+
 ### Referrer
 
 Será possivel também compartilhar o PlaylisTV com sua lista já incluída após a instalação do app usando:
