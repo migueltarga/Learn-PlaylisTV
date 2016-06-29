@@ -65,9 +65,13 @@ http://bit.ly/Link
 
 
 `[B]negrito[/B]`
+
 `[I]Italico[/I]`
+
 `[U]Sublinhado[/U]`
+
 `[COLOR blue]Texto em azul[/COLOR]`
+
 `[COLOR #0000FF]Texto em azul[/COLOR]`
 
 
