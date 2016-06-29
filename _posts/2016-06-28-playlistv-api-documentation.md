@@ -59,7 +59,7 @@ Para usar subcategorias use a tag `pltv-subgroup`, exemplo:
 http://bit.ly/Link
 ```
 
-### Formataçaã de texto
+### Formatação de texto
 
 É possivel usar **negrito**, _italico_, sublinhado e cores (html colors) para o texto das categorias, subcategorias e nome do canal/epsodio/filme usando as seguintes tags:
 
